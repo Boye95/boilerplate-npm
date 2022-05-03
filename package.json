@@ -1,8 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Adeboye Folaranmi",
-  "description": "A project that does something awesome",
-  "keywords": [ "freeCodeCamp", "node.js", "Learning" ],
+	"description": "A project that does something awesome",
+	"keywords": [
+		"freeCodeCamp",
+		"node.js",
+		"Learning"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
