@@ -1,6 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Adeboye Folaranmi",
+  "description": "A project that does something awesome",
+  "keywords": [ "freeCodeCamp", "node.js", "Learning" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +12,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/Boye95/boilerplate-npm.git"
 	}
 }
